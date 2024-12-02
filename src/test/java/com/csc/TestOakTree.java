@@ -11,7 +11,6 @@ public class TestOakTree {
 
   @BeforeEach
   void setUp() {
-    tree = new OakTree();
   }
 
   @Test
